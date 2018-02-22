@@ -1,7 +1,9 @@
 # Blinky
-Android arcade game, with audio visualizer. Made with Unity.
+Android arcade game with audio visualizer. Made with Unity.
 
-Music:
+If I am to be honest, it still lacks the "game" part. But visualizer works great!
+
+Music used:
 NEFFEX Youtube Channel: https://www.youtube.com/channel/UCBefBxNTPoNCQBU_Lta6Nvg
 1. Blow Up: https://www.youtube.com/watch?v=dC1s0tSsTjo
 2. Killa: https://www.youtube.com/watch?v=MKaeNSk2_Jg
