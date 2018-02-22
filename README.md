@@ -1,7 +1,7 @@
 # Blinky
 Android arcade game with audio visualizer. Made with Unity.
 
-If I am to be honest, it still lacks the "game" part. But visualizer works great!
+If I am to be honest, it still lacks the "game" part, but visualizer works great!
 
 Music used:
 NEFFEX Youtube Channel: https://www.youtube.com/channel/UCBefBxNTPoNCQBU_Lta6Nvg
