@@ -3,6 +3,8 @@ Android arcade game with audio visualizer. Made with Unity.
 
 If I am to be honest, it still lacks the "game" part, but visualizer works great!
 
+The feature with scanning memory and scavaging all mp3s from device is still in "Work In Progress" state.
+
 Music used:
 NEFFEX Youtube Channel: https://www.youtube.com/channel/UCBefBxNTPoNCQBU_Lta6Nvg
 1. Blow Up: https://www.youtube.com/watch?v=dC1s0tSsTjo
